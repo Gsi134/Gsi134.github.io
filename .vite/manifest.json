@@ -1,0 +1,169 @@
+{
+  "_BNdUXRns.js": {
+    "file": "assets/BNdUXRns.js",
+    "name": "index"
+  },
+  "_C3Zlwr2N.js": {
+    "file": "assets/C3Zlwr2N.js",
+    "name": "Button",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_CAn4n6zl.js": {
+    "file": "assets/CAn4n6zl.js",
+    "name": "Image",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_DbhbABMj.js": {
+    "file": "assets/DbhbABMj.js",
+    "name": "Logo",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "index.html": {
+    "file": "assets/index-pvoCxIDX.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/components/layouts/Nav.tsx",
+      "src/components/layouts/Footer.tsx",
+      "src/routes/Roms.tsx",
+      "src/routes/About.tsx",
+      "src/routes/Reports.tsx",
+      "src/routes/PageNotFound.tsx",
+      "src/routes/RomDetails.tsx",
+      "src/routes/Plugins.tsx",
+      "src/routes/PluginsAddAndEdit.tsx",
+      "src/routes/Chat.tsx"
+    ],
+    "css": [
+      "assets/CbZa6Y1r.css"
+    ],
+    "assets": [
+      "assets/BHUNpI6q.svg"
+    ]
+  },
+  "src/assets/download.jfif": {
+    "file": "assets/CWux8tBV.jfif",
+    "src": "src/assets/download.jfif"
+  },
+  "src/assets/thumb_A51_1-removebg-preview.png": {
+    "file": "assets/CwtiYYCX.png",
+    "src": "src/assets/thumb_A51_1-removebg-preview.png"
+  },
+  "src/assets/vector (1).svg": {
+    "file": "assets/BHUNpI6q.svg",
+    "src": "src/assets/vector (1).svg"
+  },
+  "src/components/layouts/Footer.tsx": {
+    "file": "assets/DIFMeC1U.js",
+    "name": "Footer",
+    "src": "src/components/layouts/Footer.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_DbhbABMj.js"
+    ]
+  },
+  "src/components/layouts/Nav.tsx": {
+    "file": "assets/Dlu7FuWt.js",
+    "name": "Nav",
+    "src": "src/components/layouts/Nav.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_CAn4n6zl.js",
+      "_BNdUXRns.js",
+      "_DbhbABMj.js"
+    ],
+    "assets": [
+      "assets/CWux8tBV.jfif",
+      "assets/CwtiYYCX.png"
+    ]
+  },
+  "src/routes/About.tsx": {
+    "file": "assets/CoRdnKR7.js",
+    "name": "About",
+    "src": "src/routes/About.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  },
+  "src/routes/Chat.tsx": {
+    "file": "assets/Di-2w160.js",
+    "name": "Chat",
+    "src": "src/routes/Chat.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_BNdUXRns.js"
+    ]
+  },
+  "src/routes/PageNotFound.tsx": {
+    "file": "assets/8h34usAp.js",
+    "name": "PageNotFound",
+    "src": "src/routes/PageNotFound.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  },
+  "src/routes/Plugins.tsx": {
+    "file": "assets/DKeGP8VA.js",
+    "name": "Plugins",
+    "src": "src/routes/Plugins.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  },
+  "src/routes/PluginsAddAndEdit.tsx": {
+    "file": "assets/2L96D5TA.js",
+    "name": "PluginsAddAndEdit",
+    "src": "src/routes/PluginsAddAndEdit.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_C3Zlwr2N.js"
+    ]
+  },
+  "src/routes/Reports.tsx": {
+    "file": "assets/BacTO6R9.js",
+    "name": "Reports",
+    "src": "src/routes/Reports.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  },
+  "src/routes/RomDetails.tsx": {
+    "file": "assets/B_T50sc7.js",
+    "name": "RomDetails",
+    "src": "src/routes/RomDetails.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_CAn4n6zl.js",
+      "_C3Zlwr2N.js",
+      "_BNdUXRns.js"
+    ],
+    "css": [
+      "assets/Dr12QuLX.css"
+    ]
+  },
+  "src/routes/Roms.tsx": {
+    "file": "assets/w_LkV-fe.js",
+    "name": "Roms",
+    "src": "src/routes/Roms.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  }
+}
